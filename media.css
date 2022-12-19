@@ -1,0 +1,16 @@
+@media screen and (max-width: 500px) {
+    .scoreArea {
+        width: 300px;
+        height: 100px;
+        font-size: 30px;
+    }
+    .gameArea{
+        width: 300px;
+        height: 300px;
+    }
+    .button{
+        width: 100px;
+        height: 100px;
+        font-size: 40px;
+    }
+}
